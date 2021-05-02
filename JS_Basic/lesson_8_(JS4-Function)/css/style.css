@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    width: 400px;
+    height: 150px;
+    background-color: #bababa;
+    color: #0a508f;
+    margin: 150px auto;
+    padding: 60px 25px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+div:hover {
+    background-color: #043c56;
+    color: white;
+}

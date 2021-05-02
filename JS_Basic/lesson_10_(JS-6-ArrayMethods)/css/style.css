@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 400px;
+    height: 40px;
+    background-color: #bababa;
+    color: #0a508f;
+    margin: 15px auto;
+    padding: 10px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.container:hover {
+    background-color: #043c56;
+    color: white;
+}
+
