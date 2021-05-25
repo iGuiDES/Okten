@@ -1,14 +1,5 @@
 /.idea/.gitignore
-/React/root-basic/lesson-1/.gitignore
-/React/root-basic/lesson-1/public/favicon.ico
-/React/root-basic/lesson-1/public/index.html
-/React/root-basic/lesson-1/public/logo192.png
-/React/root-basic/lesson-1/public/logo512.png
-/React/root-basic/lesson-1/public/manifest.json
 /.idea/modules.xml
 /.idea/Okten.iml
-/React/root-basic/lesson-1/package.json
-/React/root-basic/lesson-1/README.md
-/React/root-basic/lesson-1/public/robots.txt
 /.idea/vcs.xml
-/React/root-basic/lesson-1/yarn.lock
+
