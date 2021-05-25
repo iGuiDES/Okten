@@ -133,7 +133,7 @@ abstract class ACar {
         this.power = power;
     }
 
-    ride() {
+    ride(): void {
         console.log(`Ride with ${this.power * 2} km/h`);
     }
 }
